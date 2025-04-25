@@ -1786,7 +1786,12 @@ input, select, textarea {
 		margin-top: -0.25em;
 		line-height: 1.5em;
 	}
-
+	
+	header.major h3 {
+		color: #006666;
+		font-size: 1.5em;
+	}
+	
 	header.major h2 {
 		color: #006666;
 		font-size: 3em;
